@@ -3,8 +3,8 @@ This repo explains and vividly provides a guide towards the deployment of the Ku
 
 ## Dashboard Overview
 
-![Dashboard Overview](./K8-Dash/k8-dash.png)
+![Dashboard Overview](./K8-Dash/dash-k8.png)
 
 ## Admin Settings
 
-![Admin Settings](./K8-Dash/k8-dash2.png)
+![Admin Settings](./K8-Dash/dash-k82.png)
